@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030788055115",
+    "project_id": "notefirebase13",
+    "storage_bucket": "notefirebase13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030788055115:android:743a44a04adfbacd30cdce",
+        "android_client_info": {
+          "package_name": "com.example.tugas_pertemuan13_firebase_prasetyo_edip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWf6C55dMqtsw7mumn0cixUdtEIkC0Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
